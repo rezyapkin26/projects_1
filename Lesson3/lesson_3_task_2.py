@@ -1,4 +1,4 @@
-from Lesson3.smartphone import smartphone
+from smartphone import smartphone
 catalog = []
 catalog.append(smartphone('Samsung', 'galaxy M31', '+79998887766'))
 catalog.append(smartphone('Nokia', 'cirpich', '+79997776655'))

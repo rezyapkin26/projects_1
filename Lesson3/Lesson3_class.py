@@ -1,5 +1,5 @@
-from Lesson3.user import User
-from Lesson3.card import Card
+from User import User
+from card import Card
 
 user1 = User("Petr")
 user1.sayName()
